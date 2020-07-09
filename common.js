@@ -173,3 +173,11 @@ $(function(){
 		container: window
 	});
 });
+// 初始化的方式
+$(function(){
+ 
+	var datalazy = new DataLazyLoad({
+		container: window
+	});
+});
+
