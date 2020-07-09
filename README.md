@@ -14,4 +14,4 @@ Git鼓励大量使用分支：
 
 删除分支：git branch -d <name>
 
-当前修改是在dev分支
+当前修改是在master分支
